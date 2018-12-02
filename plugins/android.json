@@ -1,0 +1,122 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.interactive_crypto.app"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.interactive_crypto.app"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.interactive_crypto.app"
+    },
+    "cordova-plugin-ionic-webview": {
+      "PACKAGE_NAME": "com.interactive_crypto.app"
+    },
+    "cordova-plugin-ionic-keyboard": {
+      "PACKAGE_NAME": "com.interactive_crypto.app"
+    },
+    "cordova-plugin-googleplus": {
+      "PLAY_SERVICES_VERSION": "11.8.0",
+      "PACKAGE_NAME": "com.interactive_crypto.app"
+    },
+    "onesignal-cordova-plugin": {
+      "PACKAGE_NAME": "com.interactive_crypto.app"
+    },
+    "cordova-plugin-x-socialsharing": {
+      "ANDROID_SUPPORT_V4_VERSION": "24.1.1+",
+      "PACKAGE_NAME": "com.interactive_crypto.app"
+    },
+    "cordova-plugin-market": {
+      "PACKAGE_NAME": "com.interactive_crypto.app"
+    },
+    "cordova-plugin-apprate": {
+      "PACKAGE_NAME": "com.interactive_crypto.app"
+    },
+    "cordova-plugin-google-analytics": {
+      "GMS_VERSION": "11.0.1",
+      "PACKAGE_NAME": "com.interactive_crypto.app"
+    },
+    "cordova-plugin-app-version": {
+      "PACKAGE_NAME": "com.interactive_crypto.app"
+    },
+    "cordova-plugin-appsflyer-sdk": {
+      "PACKAGE_NAME": "com.interactive_crypto.app"
+    },
+    "cordova-plugin-admob-free": {
+      "PLAY_SERVICES_VERSION": "11.0.4",
+      "PACKAGE_NAME": "com.interactive_crypto.app"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "com.interactive_crypto.app"
+    },
+    "ionic-plugin-deeplinks": {
+      "URL_SCHEME": "interactivecrypto",
+      "DEEPLINK_SCHEME": "https",
+      "DEEPLINK_HOST": "interactivecrypto.com",
+      "ANDROID_PATH_PREFIX": "/",
+      "ANDROID_2_PATH_PREFIX": "/",
+      "ANDROID_3_PATH_PREFIX": "/",
+      "ANDROID_4_PATH_PREFIX": "/",
+      "ANDROID_5_PATH_PREFIX": "/",
+      "DEEPLINK_2_SCHEME": " ",
+      "DEEPLINK_2_HOST": " ",
+      "DEEPLINK_3_SCHEME": " ",
+      "DEEPLINK_3_HOST": " ",
+      "DEEPLINK_4_SCHEME": " ",
+      "DEEPLINK_4_HOST": " ",
+      "DEEPLINK_5_SCHEME": " ",
+      "DEEPLINK_5_HOST": " ",
+      "PACKAGE_NAME": "com.interactive_crypto.app"
+    },
+    "cordova-plugin-android-permissions": {
+      "PACKAGE_NAME": "com.interactive_crypto.app"
+    },
+    "cordova-plugin-sim": {
+      "PACKAGE_NAME": "com.interactive_crypto.app"
+    },
+    "com.darktalker.cordova.screenshot": {
+      "PACKAGE_NAME": "com.interactive_crypto.app"
+    },
+    "cc.fovea.cordova.purchase": {
+      "BILLING_KEY": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhZfXGTbvbyx62IESJKHIX/V0hNKBQAEtTt01ZoSBGGyHghucCGn660TgkZEe4ESmBOh2Bsjs20pTN8YHFFGB35Giu3gq901HjHeZf4xmIWab239mM9Ghv/2AuUhytrqqJlzt1kwwotm+vGFLNSMgAksYkRS69e54LkwAdjS7RwS/NpuADKw3u/Nu4xe2oR5DAyB10WImlhaN3jTeWJMGsewcnOh151jqEFZWuNzMjlKQh3Z3AJRU+QWVh74Ga1IdN4fW6cNX7pc+SLyjqNhI27tFa/MLRL7Mw60qcLLBYLIdCz4nNrEseRnF/GiSbGWzZJftW4/TmVX9z9bis+zz4wIDAQAB",
+      "PACKAGE_NAME": "com.interactive_crypto.app"
+    },
+    "cordova-plugin-facebook4": {
+      "APP_ID": "1674434029280554",
+      "APP_NAME": "Interactive crypto",
+      "FACEBOOK_ANDROID_SDK_VERSION": "4.37.0",
+      "PACKAGE_NAME": "com.interactive_crypto.app"
+    }
+  },
+  "dependent_plugins": {
+    "es6-promise-plugin": {
+      "PACKAGE_NAME": "com.interactive_crypto.app"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "com.interactive_crypto.app"
+    },
+    "cordova-plugin-globalization": {
+      "PACKAGE_NAME": "com.interactive_crypto.app"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "com.interactive_crypto.app"
+    },
+    "cordova-plugin-nativestorage": {
+      "PACKAGE_NAME": "com.interactive_crypto.app"
+    },
+    "cordova-promise-polyfill": {
+      "PACKAGE_NAME": "com.interactive_crypto.app"
+    },
+    "cordova-admob-sdk": {
+      "PLAY_SERVICES_VERSION": "11.0.4",
+      "PACKAGE_NAME": "com.interactive_crypto.app"
+    }
+  }
+}
